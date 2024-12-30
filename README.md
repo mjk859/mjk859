@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Muhammed Jaseel K from India<br><br>- 🔭 I’m a computer science graduate.<br>- 📚 I'm a Full Stack Developer.<br>- ⚡ In my free time I read books.</p>
+<p align="left">I'm Muhammed Jaseel K from India<br><br>- 🔭 Computer science grad.<br>- 📚 Full Stack Developer.<br>- ⚡ In my free time I read books.</p>
 
 ###
 
